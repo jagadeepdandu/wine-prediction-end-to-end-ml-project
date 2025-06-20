@@ -8,6 +8,8 @@ ensure
 joblib
 Flask
 python-box
+seaborn
 types-pyYAML
 Flask-Cors
+seaborn
 -e .

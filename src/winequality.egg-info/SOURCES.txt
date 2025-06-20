@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/winequality/__init__.py
+src/winequality.egg-info/PKG-INFO
+src/winequality.egg-info/SOURCES.txt
+src/winequality.egg-info/dependency_links.txt
+src/winequality.egg-info/top_level.txt
