@@ -1,1 +1,5 @@
 [2025-06-20 19:00:31,139: INFO: This is the custom log]
+[2025-06-21 23:04:58,583: INFO: yaml file: C:\Users\Jagadeep\Desktop\ml playground\projects\wine quality end to end\config\config.yaml loaded succesfully]
+[2025-06-21 23:04:58,585: INFO: yaml file: C:\Users\Jagadeep\Desktop\ml playground\projects\wine quality end to end\params.yaml loaded succesfully]
+[2025-06-21 23:04:58,586: INFO: yaml file: C:\Users\Jagadeep\Desktop\ml playground\projects\wine quality end to end\schema.yaml loaded succesfully]
+[2025-06-21 23:04:58,587: INFO: created directory at :artifacts_root]

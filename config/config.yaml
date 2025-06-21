@@ -1,0 +1,8 @@
+artifacts_root : artifacts_root
+
+data_ingestion :
+  root_dir : artifacts/data_ingestion
+  source_URL : https://github.com/jagadeepdandu/wine-prediction-end-to-end-ml-project/raw/refs/heads/main/wine%20quality%20data.zip
+  local_data_file : artifacts/data_ingestion/data.zip
+  unzip_dir : artifacts/data_ingestion
+  
