@@ -41,3 +41,39 @@ Source-Age: 161
 [2025-06-21 23:11:09,477: INFO: created directory at :artifacts_root]
 [2025-06-21 23:11:09,478: INFO: created directory at :artifacts/data_ingestion]
 [2025-06-21 23:11:09,478: INFO: File already exists of size: ~21 KB]
+[2025-07-06 12:21:30,331: INFO: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-07-06 12:21:30,340: INFO: yaml file: C:\Users\Jagadeep\Desktop\ml playground\projects\wine quality end to end\config\config.yaml loaded succesfully]
+[2025-07-06 12:21:30,349: INFO: yaml file: C:\Users\Jagadeep\Desktop\ml playground\projects\wine quality end to end\params.yaml loaded succesfully]
+[2025-07-06 12:21:30,358: INFO: yaml file: C:\Users\Jagadeep\Desktop\ml playground\projects\wine quality end to end\schema.yaml loaded succesfully]
+[2025-07-06 12:21:30,358: INFO: created directory at :artifacts_root]
+[2025-07-06 12:21:30,359: INFO: created directory at :artifacts/data_ingestion]
+[2025-07-06 12:21:31,544: INFO: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 21497
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "9dd794b9fc858075b432f971f1a022cc166132cedc98dd878a9d24c5afe9f839"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 790D:38AECF:1D592A:5BE92C:686A1CF4
+Accept-Ranges: bytes
+Date: Sun, 06 Jul 2025 06:51:32 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4724-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1751784693.621116,VS0,VE247
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9f79447eca106f70cd296f0ebb6f1ceb48b125ce
+Expires: Sun, 06 Jul 2025 06:56:32 GMT
+Source-Age: 0
+
+]
+[2025-07-06 12:21:31,563: INFO: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
